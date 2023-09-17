@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 人工智能芯片：设计与实践
+title: 人工智能芯片设计导论
 ---
 
 ## COURSE INFORMATION
 
-- Lecture Location: 昌平新校区-114
-- Lecture time:	9:00am-11:50am，周三（1～16周）
+- Lecture Location: 燕园校区-三教(刘卿楼)406
+- Lecture time:	8:00am-9:50am，周一(单双周)&周二(单周)
 - Instructor: Dr. Bonan Yan 燕博南 (site: [bonany.cc](https://bonany.cc))
 - Email:	bonanyan AT pku.edu.cn
 
