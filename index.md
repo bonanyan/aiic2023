@@ -18,7 +18,7 @@ title: 人工智能芯片设计导论
 | 2   | 1    | Tue, 9/12  | Class Introduction-II                                                     | Lecture      |            |
 | 3   | 2    | Mon, 9/18  | Advanced HDL basics & Timing-I [\[slides\]](/assets/lec/Lec2_verilog.pdf) | Lecture      |            |
 | 4   | 3    | Mon, 9/25  | Advanced HDL basics & Timing-II                                           | Lecture      |            |
-| 5   | 3    | Tue, 9/16  | Advanced HDL basics & Timing-III                                          | Lecture      |            |
+| 5   | 3    | Tue, 9/26  | Advanced HDL basics & Timing-III                                          | Lecture      |            |
 | 6   | 4    | Mon, 10/2  | Happy holiday! No lecture😃                                              |              |            |
 | 7   | 5    | Mon, 10/9  | Data Formats & Circuits-I                                                 | Lecture      |            |
 | 8   | 5    | Tue, 10/10 | Data Formats & Circuits-II                                                | Lecture      |            |
